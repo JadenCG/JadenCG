@@ -1,0 +1,2 @@
+- I'm Jaden Gill
+- I am currently majoring in Computer Science at the University of Utah

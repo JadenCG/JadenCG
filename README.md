@@ -1,2 +1,3 @@
-- I'm Jaden Gill
 - I am currently majoring in Computer Science at the University of Utah
+- Most of my repositories are organized by the university
+- My LinkedIn is https://www.linkedin.com/in/jaden-gill-039955231/
